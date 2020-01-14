@@ -1,6 +1,6 @@
 # ReadingCsv
 
-**TODO: Add description**
+An entry small project to learn elixir. Read, modify and write csv files.
 
 ## Installation
 
